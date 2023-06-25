@@ -1,2 +1,2 @@
-# Youtub-clone
+# Youtube-clone
 youtube clone name socioTube
